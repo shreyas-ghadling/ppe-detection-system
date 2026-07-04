@@ -126,8 +126,9 @@ tenacity==9.1.4
 terminado==0.18.1
 tinycss2==1.5.1
 toml==0.10.2
-torch==2.12.1
-torchvision==0.27.1
+torch==2.11.0+cu128
+torchaudio==2.11.0+cu128
+torchvision==0.26.0+cu128
 tornado==6.5.7
 traitlets==5.15.1
 typing-inspection==0.4.2
