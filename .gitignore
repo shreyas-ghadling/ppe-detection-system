@@ -1,0 +1,38 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Output folders
+outputs/
+
+# Trained models
+models/*.pt
+models/*.onnx
+
+# Large datasets
+dataset/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# PyTorch cache
+*.pth
+
+# YOLO training outputs
+runs/
