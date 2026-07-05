@@ -36,3 +36,6 @@ Thumbs.db
 
 # YOLO training outputs
 runs/
+
+# Ultralytics downloaded pretrained weights
+yolo*.pt
